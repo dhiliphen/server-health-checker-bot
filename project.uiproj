@@ -1,0 +1,6 @@
+{
+  "Name": "CheckServerStatus",
+  "ProjectType": "Process",
+  "Description": "Bot to check multiple server status",
+  "MainFile": "Main.xaml"
+}
