@@ -10,6 +10,7 @@ Manual server monitoring is time-consuming and error-prone. This bot automates t
 2. Sends an HTTP Request to each URL
 3. Captures the response status (OK, ServiceUnavailable, etc.)
 4. Logs the result with timestamp in the Output panel
+5. Writes URL, Status and Timestamp to Results sheet in ServerList.xlsx
 
 ## 🛠️ Tech Stack
 - UiPath Studio
