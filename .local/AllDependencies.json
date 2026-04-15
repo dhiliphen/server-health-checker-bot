@@ -18024,20 +18024,16 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dhili\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Dhiliphen\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "CheckServerStatus",
       "projectName": "CheckServerStatus",
-      "projectPath": "C:\\Users\\Dhili\\OneDrive\\Documents\\UiPath\\CheckServerStatus\\.local",
-      "packagesPath": "C:\\Users\\Dhili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhili\\OneDrive\\Documents\\UiPath\\CheckServerStatus\\.local",
+      "projectPath": "C:\\Users\\Dhiliphen\\OneDrive\\Documents\\UiPath\\server-health-checker-bot\\.local",
+      "packagesPath": "C:\\Users\\Dhiliphen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dhiliphen\\OneDrive\\Documents\\UiPath\\server-health-checker-bot\\.local",
       "UsingMicrosoftNETSdk": false,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "restoreAuditProperties": {
         "enableAudit": "False"
       }
@@ -18066,7 +18062,7 @@
             "version": "[2.4.0, 2.4.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Dhili\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Dhiliphen\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
